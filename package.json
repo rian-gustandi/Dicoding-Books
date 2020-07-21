@@ -24,6 +24,8 @@
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "regenerator-runtime": "^0.13.3"
+    "lodash": "^4.17.19",
+    "regenerator-runtime": "^0.13.3",
+    "websocket-extensions": "^0.1.4"
   }
 }
